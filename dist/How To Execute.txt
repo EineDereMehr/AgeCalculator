@@ -1,12 +1,12 @@
 Windows:
-just click twice over the program.
+just click twice on the program.
 ENG ---- English version
 DEU ---- German version
 ESP ---- Spanish version
 
 Linux: 
-Open a terminal over in the directory you're in (/AgeCalculator/dist)
+Open a terminal in the directory you're in (/AgeCalculator/dist)
 write one of the next comands:
 java -jar ageCalculator_DEU.jar ------- German version
 java -jar AgeCalculator_ENG.jar ------- English version
-java -jar AgeCalculator_ESP.jar ------- Espanish version
+java -jar AgeCalculator_ESP.jar ------- Spanish version
