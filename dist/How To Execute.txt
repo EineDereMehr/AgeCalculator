@@ -8,5 +8,5 @@ Linux:
 Open a terminal in the directory you're in (/AgeCalculator/dist)
 write one of the next comands:
 java -jar ageCalculator_DEU.jar ------- German version
-java -jar AgeCalculator_ENG.jar ------- English version
-java -jar AgeCalculator_ESP.jar ------- Spanish version
+java -jar ageCalculator_ENG.jar ------- English version
+java -jar ageCalculator_ESP.jar ------- Spanish version
